@@ -1,0 +1,19 @@
+{
+  "name": "festy_friends",
+  "version": "1.0.0",
+  "description": "App to showcase modules of things at festivals, and friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akataz/festyFriends.git"
+  },
+  "author": "Tyrus Brenc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akataz/festyFriends/issues"
+  },
+  "homepage": "https://github.com/akataz/festyFriends#readme"
+}
